@@ -9,9 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bluebird": "^3.5.0",
-    "email-templates": "^2.6.0",
-    "handlebars": "^4.0.10",
-    "nodemailer": "^4.0.1"
+    "bluebird": "",
+    "email-templates": "",
+    "handlebars": "",
+    "nodemailer": ""
   }
 }
